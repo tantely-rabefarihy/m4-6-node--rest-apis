@@ -57,3 +57,17 @@ const clients = [
 ];
 
 module.exports = { clients };
+
+
+
+// {
+//   id: '59761c23b30d971669fb42ff',
+//   isActive: true,
+//   age: 36,
+//   name: 'Dunlap Hubbard',
+//   gender: 'male',
+//   company: 'CEDWARD',
+//   email: 'dunlaphubbard@cedward.com',
+//   phone: '+1 (890) 543-2508',
+//   address: '169 Rutledge Street, Konterra, Northern Mariana Islands, 8551',
+// }
